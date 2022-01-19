@@ -10,3 +10,19 @@ Projetos de análise e visualização na ferramenta POWER BI. Aqui será listado
 
 
 <img src="img/business.png" width="20"> Link do dashboard: https://url.gratis/CUbGHa
+
+
+
+Este é um {c:red}texto vermelho.{/c}
+
+Este é um {c:#B81365}texto colorido com hexadecimal{/c}
+
+<kbd>{c:yellow}Essa é uma frase com fundo escuro e texto amarelo{/c}</kbd>
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
+<font color='red'>test blue color font</font>
+
+<u>Texto 1 sublinhado</u> ou <ins>Texto 2 sublinhado</ins><div style=”border:1px solid black; padding:10px; color:white; background-color:red;”>parei aqui &curarr;</div>
