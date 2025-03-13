@@ -8,7 +8,7 @@ Neste repositório será colocado todos os meus projetos desenvolvido na ferrame
 
 Dashboard desenvolvido durante uma live de atividades práticas em PowerBi.
 
-* Link do dashboard: https://url.gratis/CUbGHa
+* [Link do dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTFkNTAzZWQtYjQ3Yi00MDg1LWI0ZmQtZmU0NGViMjU2OWZlIiwidCI6IjVmNmYxNTUwLTRkZTUtNDg4YS1iM2MwLThhZjM0NmEwMjQ1NyJ9&pageName=ReportSection7d243a9edb6a8b612e75)
 
  
 ![image](https://github.com/anamariapego/Projetos-PowerBI/assets/57241391/685c4291-0269-47d7-b6bc-3540e8cab65a) | ![image](https://github.com/anamariapego/Projetos-PowerBI/assets/57241391/0dd9861f-2d3b-4b4f-98d0-95a9ffa74ef9) 
